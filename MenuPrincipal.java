@@ -1,8 +1,8 @@
 /*
  * Autor(es): Sebastião Guerra / Mariana Leandro
- * Curso: Sistemas de Informação
- * Projeto: Menu de Atividades em Java
- * Data: Abril de 2025
+ * Matrícula(s): 202501043020 / 20251043016
+ * Curso: Sistemas de Informação - 1° Período
+ * Projeto: Menu de Aplicações do dia a dia em Java
  */
 import java.util.Scanner;
 public class MenuPrincipal {
